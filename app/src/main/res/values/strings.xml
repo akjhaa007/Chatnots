@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Asista</string>
+    <string name="email_id">Email id:</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="CreateAccount">Create a new account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile">Mobile No</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="signup">SignUp</string>
+    <string name="my_wife">Senorita</string>
+    <string name="romantic_boy">Peter</string>
+    <string name="romantic_girl">Emma</string>
+    <string name="intelligent_boy">Robert</string>
+    <string name="inteligent_girl">Lucy</string>
+    <string name="Owner">Snip</string>
+    <string name="backDescription">Back to login</string>
+    <string name="nextButtonSignUp">Next to fill your SignUp form</string>
+
+</resources>
